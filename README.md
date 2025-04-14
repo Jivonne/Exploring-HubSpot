@@ -42,7 +42,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Assigning Contact Owners: You can assign contact owners to multiple contacts at once by selecting the contacts, clicking the "Assign" link, and choosing the appropriate owner from the dropdown menu.
 - Batch Editing: HubSpot allows for batch editing of contacts, making it easier to manage and update multiple contacts simultaneously.
   
-![Image Alt](
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/ae369507c464226e5e8c2cca1290c24347acfb8d/Editing%20Contact%20Info.png)
   
 
 
