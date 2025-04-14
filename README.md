@@ -70,6 +70,10 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Task Details: When creating a task, you can set a name, due date, priority, and add notes. Tasks can be associated with specific deals, contacts, or companies.
 - Task Management: HubSpot helps you track and manage tasks, including setting reminders and marking tasks as complete or incomplete.
 
+   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/0d4f5ff921ea39e03e6b6b2b27b3f4fdaec89a1a/Creating%20a%20Task.png)
+    ![Image Alt](
+  
+
 
 
 
