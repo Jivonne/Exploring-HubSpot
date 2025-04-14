@@ -64,7 +64,11 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aabb38113bb47bcc2ff789aa4048e51d5cab5eb5/Adding%20Deals.png)
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/52ac5f77da1443a84b2e2b68fbd6b1201d782f30/Editing%20Delas.png)
 
+<h2>Adding and Editing Deals</h2>
 
+- Task Creation: You can create tasks directly from the sales tab or while working on a deal, contact, or company.
+- Task Details: When creating a task, you can set a name, due date, priority, and add notes. Tasks can be associated with specific deals, contacts, or companies.
+- Task Management: HubSpot helps you track and manage tasks, including setting reminders and marking tasks as complete or incomplete.
 
 
 
