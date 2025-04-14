@@ -1,4 +1,4 @@
-# Learning-HubSpot
+# Exploring-HubSpot
 
 
 👋 Hi there!
