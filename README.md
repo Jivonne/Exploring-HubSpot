@@ -24,26 +24,10 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Contact Details: After entering the email, you can fill in additional details like name, job title, phone number, and lifecycle stage.
 - Managing Contacts: You can update contact information at any time and manage lifecycle stages and lead statuses to keep track of your interactions.
 
-Creating A Contact:
 
-![Image Alt](https://imgur.com/fysR6tR)
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f03ff4de36bd2e074047044abfc4de9d12afe538/Screenshot%202025-04-14%20120024.png)
 
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 
 
