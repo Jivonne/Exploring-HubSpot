@@ -25,7 +25,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Managing Contacts: You can update contact information at any time and manage lifecycle stages and lead statuses to keep track of your interactions.
 
 
-![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f03ff4de36bd2e074047044abfc4de9d12afe538/Screenshot%202025-04-14%20120024.png)
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/51c128ac01a8c6e2b6bb20a7fc6b90679680b22a/Creating%20an%20Account.png)
 
 
 <h2>Importing Contacts</h2>
