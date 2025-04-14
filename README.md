@@ -52,6 +52,9 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Editing Company Information: You can manually edit and add details to companies, such as the company name, industry, address, and number of employees.
 - Organization and Assignment: Companies can be associated with contacts and assigned to various owners within your organization, helping you keep track of business relationships.
 
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aea4413bf96b02f72c59a289174952bdbca4e324/Adding%20a%20Company.png)
+![Image Alt]()
+
 
 
 
