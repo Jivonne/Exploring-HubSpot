@@ -99,6 +99,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Customization: You can customize the landing page by editing text, images, and forms to gather specific customer information.
 - Publishing: Once designed, you can publish the landing page and track its performance through analytics.
 
+  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/6b907393dae88a132170a2d98c1e88ceda4d5330/Landing%20Page.png)
+
 
   
 
