@@ -27,6 +27,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f03ff4de36bd2e074047044abfc4de9d12afe538/Screenshot%202025-04-14%20120024.png)
 
+
 <h2>Importing Contacts</h2>
 
 - File Formats: You can import contacts using Excel spreadsheets (XLSX, XLS) or CSV files.
@@ -35,6 +36,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 
 
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/844108ac33de3e837d48de344b31d45b1bdebff0/Screenshot%202025-04-14%20123413.png)
 
 
 
