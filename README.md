@@ -62,7 +62,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Association: Deals can be associated with specific contacts and companies, allowing you to track all related activities and interactions.
   
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aabb38113bb47bcc2ff789aa4048e51d5cab5eb5/Adding%20Deals.png)
-  ![Image Alt](
+  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/ea93be393165350f601ba04f78b890a046ed5610/Editing%20Deals.png)
 
 <h2>Adding and Editing Task<h2>
 
