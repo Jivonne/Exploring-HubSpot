@@ -64,14 +64,26 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aabb38113bb47bcc2ff789aa4048e51d5cab5eb5/Adding%20Deals.png)
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/52ac5f77da1443a84b2e2b68fbd6b1201d782f30/Editing%20Delas.png)
 
-<h2>Adding and Editing Deals</h2>
+<h2>Adding and Editing Task<h2>
 
 - Task Creation: You can create tasks directly from the sales tab or while working on a deal, contact, or company.
 - Task Details: When creating a task, you can set a name, due date, priority, and add notes. Tasks can be associated with specific deals, contacts, or companies.
 - Task Management: HubSpot helps you track and manage tasks, including setting reminders and marking tasks as complete or incomplete.
 
-   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/0d4f5ff921ea39e03e6b6b2b27b3f4fdaec89a1a/Creating%20a%20Task.png)
-    ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f2e4fd907e2b0960c001c310c48cef7dd93bc990/Mark%20as%20Complete.png)
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/0d4f5ff921ea39e03e6b6b2b27b3f4fdaec89a1a/Creating%20a%20Task.png)
+ ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f2e4fd907e2b0960c001c310c48cef7dd93bc990/Mark%20as%20Complete.png)
+
+<h2>Creating an Email List<h2>
+  
+- Creating Lists: You can create specific email lists to target contacts based on various criteria, such as region or company.
+- Active vs. Static Lists: Active lists update automatically as new contacts meet the criteria, while static lists remain unchanged once created.
+- Using Filters: You can use filters to narrow down contacts based on properties like state or region to ensure your email lists are precise and targeted.
+
+
+
+
+
+
   
 
 
