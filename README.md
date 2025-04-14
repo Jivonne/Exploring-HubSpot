@@ -53,7 +53,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Organization and Assignment: Companies can be associated with contacts and assigned to various owners within your organization, helping you keep track of business relationships.
 
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aea4413bf96b02f72c59a289174952bdbca4e324/Adding%20a%20Company.png)
-![Image Alt]()
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/de63806f63fd8c464bd9428e1d2ebbee37121e10/Editing%20Company%20Info.png)
 
 
 
