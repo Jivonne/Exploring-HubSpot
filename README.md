@@ -36,7 +36,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 
 
-![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/844108ac33de3e837d48de344b31d45b1bdebff0/Screenshot%202025-04-14%20123413.png)
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/321bde754cd8dd78e737f380909446ce4ca953a6/Importing%20Contacts.png)
 
 
 
