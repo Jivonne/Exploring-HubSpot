@@ -55,6 +55,12 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aea4413bf96b02f72c59a289174952bdbca4e324/Adding%20a%20Company.png)
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/de63806f63fd8c464bd9428e1d2ebbee37121e10/Editing%20Company%20Info.png)
 
+<h2>Adding and Editing Deals</h2>
+
+- Creating Deals: You can create new deals directly from a contact or company’s dashboard, or manually from the sales menu.
+- Deal Information: When creating a deal, you need to provide mandatory information like the deal name, stage, amount, close date, and deal type.
+- Association: Deals can be associated with specific contacts and companies, allowing you to track all related activities and interactions.
+
 
 
 
