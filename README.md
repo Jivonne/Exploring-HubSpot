@@ -24,10 +24,9 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Contact Details: After entering the email, you can fill in additional details like name, job title, phone number, and lifecycle stage.
 - Managing Contacts: You can update contact information at any time and manage lifecycle stages and lead statuses to keep track of your interactions.
 
+Creating A Contact:
 
-<p align="center">
-Enter the number of passes: <br/>
-![Image Alt](https://imgur.com/a/OZ8reG2)
+![Image Alt](https://imgur.com/fysR6tR)
 
 <br />
 Confirm your selection:  <br/>
