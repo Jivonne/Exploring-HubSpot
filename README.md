@@ -79,6 +79,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Active vs. Static Lists: Active lists update automatically as new contacts meet the criteria, while static lists remain unchanged once created.
 - Using Filters: You can use filters to narrow down contacts based on properties like state or region to ensure your email lists are precise and targeted.
 
+ ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/3dd5fe8306d3d387b782df4d15014b8e23dbf07f/Creating%20Email%20List.png)
+
 
 
 
