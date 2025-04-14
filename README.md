@@ -62,7 +62,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Association: Deals can be associated with specific contacts and companies, allowing you to track all related activities and interactions.
   
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aabb38113bb47bcc2ff789aa4048e51d5cab5eb5/Adding%20Deals.png)
-  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/52ac5f77da1443a84b2e2b68fbd6b1201d782f30/Editing%20Delas.png)
+  ![Image Alt](
 
 <h2>Adding and Editing Task<h2>
 
@@ -80,6 +80,10 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Using Filters: You can use filters to narrow down contacts based on properties like state or region to ensure your email lists are precise and targeted.
 
  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/3dd5fe8306d3d387b782df4d15014b8e23dbf07f/Creating%20Email%20List.png)
+
+ 
+<h2>Composing a Marketing Email<h2>
+
 
 
 
