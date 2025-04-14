@@ -88,6 +88,20 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Scheduling: You have the option to send emails immediately or schedule them for a future date and time.
 - Targeting: You can choose to send emails to specific lists or individual contacts, ensuring your marketing efforts are well-targeted.
 
+   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/8a9f892257a658cbf4fc043b5ad87fdc8d38a743/Composing%20Marketing%20Email.png)
+
+
+<h2>Creating a Landing Page<h2>
+
+
+- Creating Landing Pages: HubSpot allows you to create up to 20 landing pages for free, with options to upgrade for more features.
+- Template Selection: You can choose from various templates based on your needs, such as event sign-ups or newsletter subscriptions.
+- Customization: You can customize the landing page by editing text, images, and forms to gather specific customer information.
+- Publishing: Once designed, you can publish the landing page and track its performance through analytics.
+
+
+  
+
 
 
 
