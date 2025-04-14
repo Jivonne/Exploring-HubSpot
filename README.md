@@ -84,6 +84,12 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
  
 <h2>Composing a Marketing Email<h2>
 
+- Email Creation: You can create marketing emails using basic templates provided by HubSpot, and customize them with your company details, images, and other content.
+- Scheduling: You have the option to send emails immediately or schedule them for a future date and time.
+- Targeting: You can choose to send emails to specific lists or individual contacts, ensuring your marketing efforts are well-targeted.
+
+
+
 
 
 
@@ -91,6 +97,24 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
