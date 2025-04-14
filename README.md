@@ -45,7 +45,12 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/ae369507c464226e5e8c2cca1290c24347acfb8d/Editing%20Contact%20Info.png)
   
 
+<h2>Adding and Editing Company Info</h2>
 
+- Automatic Company Creation: When you add a new contact in HubSpot, the system automatically creates a company based on the domain name in the contact's email address.
+- Manual Company Creation: You can manually add companies by entering their domain name, and HubSpot will retrieve available information from the internet.
+- Editing Company Information: You can manually edit and add details to companies, such as the company name, industry, address, and number of employees.
+- Organization and Assignment: Companies can be associated with contacts and assigned to various owners within your organization, helping you keep track of business relationships.
 
 
 
