@@ -34,9 +34,15 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Import Process: The process involves selecting the file, mapping the columns to HubSpot properties, and confirming the import.
 - Avoiding Duplicates: There's an option to update existing contacts using a contact ID to prevent duplicates.
 
-
-
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/15e4d9083495006be7fcccb3a767112038d6f775/Importing%20Contacts.png)
+
+<h2>Editing Contact Info</h2>
+
+- Updating Single Contact Information: You can update individual contact details, such as adding a missing phone number, by clicking on the contact's name, editing the information, and saving the changes.
+- Assigning Contact Owners: You can assign contact owners to multiple contacts at once by selecting the contacts, clicking the "Assign" link, and choosing the appropriate owner from the dropdown menu.
+- Batch Editing: HubSpot allows for batch editing of contacts, making it easier to manage and update multiple contacts simultaneously
+
+
 
 
 
