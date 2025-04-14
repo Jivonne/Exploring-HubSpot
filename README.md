@@ -71,7 +71,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Task Management: HubSpot helps you track and manage tasks, including setting reminders and marking tasks as complete or incomplete.
 
    ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/0d4f5ff921ea39e03e6b6b2b27b3f4fdaec89a1a/Creating%20a%20Task.png)
-    ![Image Alt](
+    ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f2e4fd907e2b0960c001c310c48cef7dd93bc990/Mark%20as%20Complete.png)
   
 
 
