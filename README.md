@@ -60,7 +60,9 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Creating Deals: You can create new deals directly from a contact or company’s dashboard, or manually from the sales menu.
 - Deal Information: When creating a deal, you need to provide mandatory information like the deal name, stage, amount, close date, and deal type.
 - Association: Deals can be associated with specific contacts and companies, allowing you to track all related activities and interactions.
+  
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/aabb38113bb47bcc2ff789aa4048e51d5cab5eb5/Adding%20Deals.png)
+  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/52ac5f77da1443a84b2e2b68fbd6b1201d782f30/Editing%20Delas.png)
 
 
 
