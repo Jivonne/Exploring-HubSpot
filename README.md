@@ -133,6 +133,12 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/b94a8cb5d4c7cbfab1dee94a3633b15c3262d213/Screenshot%202025-04-16%20123944.png)
 
+<h2>Reports<h2>
+  
+- Dashboard Control: You have full control over the reports on your dashboard, including viewing, filtering, and removing them as needed.
+- Report Library: Access a wide variety of reports from the Report Library, and customize or save them to your dashboard for quick access.
+- Detailed Insights: Drill down into specific reports for detailed insights and use filters to focus on specific data, helping you get a comprehensive view of your organization's activities.
+
 
 
 
