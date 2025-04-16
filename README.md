@@ -97,7 +97,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Customization: You can customize the landing page by editing text, images, and forms to gather specific customer information.
 - Publishing: Once designed, you can publish the landing page and track its performance through analytics.
 
-  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/6b907393dae88a132170a2d98c1e88ceda4d5330/Landing%20Page.png)
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/6b907393dae88a132170a2d98c1e88ceda4d5330/Landing%20Page.png)
 
   <h2>Tickets<h2>
 - Creating Tickets: You can create tickets from various locations in HubSpot, such as the service dropdown, contacts, and deals. This helps in organizing customer inquiries efficiently.
@@ -105,7 +105,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Details and Associations: When creating a ticket, you can add details like ticket name, status, description, and priority. You can also associate the ticket with specific companies and contacts for better tracking.
 
 
-
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/d56a72b2d2076b33507a0da238e9c981ad162650/Screenshot%202025-04-16%20111719.png)
+![Image Alt]()
   
 
 
