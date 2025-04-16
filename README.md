@@ -155,7 +155,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Sharing and Tracking: Create shareable links for documents and track who views them and how many times they are viewed.
 - Integration: HubSpot allows you to upload documents from your computer or cloud storage services like Dropbox, Google Drive, and Box, and manage them directly within the platform.
 
-![Image Alt]()
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/2469844cf7606f1bfc4535ffd93032d3d5210245/Screenshot%202025-04-16%20130940.png)
 
 
 
