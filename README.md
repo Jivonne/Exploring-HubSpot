@@ -139,6 +139,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Report Library: Access a wide variety of reports from the Report Library, and customize or save them to your dashboard for quick access.
 - Detailed Insights: Drill down into specific reports for detailed insights and use filters to focus on specific data, helping you get a comprehensive view of your organization's activities.
 
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/213c98a347da1745a92d126bf19d5569bb5bf144/Screenshot%202025-04-16%20125253.png)
+
 
 
 
