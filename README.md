@@ -149,32 +149,13 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/121635426a50814c2640b357ca1d0749b6b9b617/Screenshot%202025-04-16%20130218.png)
 
+<h2>Adding and Managing Documents<h2>
 
+- Document Storage: You can upload and store frequently shared files in HubSpot's document library, making them easily accessible for sharing.
+- Sharing and Tracking: Create shareable links for documents and track who views them and how many times they are viewed.
+- Integration: HubSpot allows you to upload documents from your computer or cloud storage services like Dropbox, Google Drive, and Box, and manage them directly within the platform.
 
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Image Alt]()
 
 
 
