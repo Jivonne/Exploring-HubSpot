@@ -71,7 +71,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Task Management: HubSpot helps you track and manage tasks, including setting reminders and marking tasks as complete or incomplete.
 
 ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/0d4f5ff921ea39e03e6b6b2b27b3f4fdaec89a1a/Creating%20a%20Task.png)
- ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f2e4fd907e2b0960c001c310c48cef7dd93bc990/Mark%20as%20Complete.png)
+![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/f2e4fd907e2b0960c001c310c48cef7dd93bc990/Mark%20as%20Complete.png)
 
 <h2>Creating an Email List<h2>
   
@@ -81,18 +81,16 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
  ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/3dd5fe8306d3d387b782df4d15014b8e23dbf07f/Creating%20Email%20List.png)
 
- 
-<h2>Composing a Marketing Email<h2>
+ <h2>Composing a Marketing Email<h2>
 
 - Email Creation: You can create marketing emails using basic templates provided by HubSpot, and customize them with your company details, images, and other content.
 - Scheduling: You have the option to send emails immediately or schedule them for a future date and time.
 - Targeting: You can choose to send emails to specific lists or individual contacts, ensuring your marketing efforts are well-targeted.
 
-   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/8a9f892257a658cbf4fc043b5ad87fdc8d38a743/Composing%20Marketing%20Email.png)
+ ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/8a9f892257a658cbf4fc043b5ad87fdc8d38a743/Composing%20Marketing%20Email.png)
 
 
 <h2>Creating a Landing Page<h2>
-
 
 - Creating Landing Pages: HubSpot allows you to create up to 20 landing pages for free, with options to upgrade for more features.
 - Template Selection: You can choose from various templates based on your needs, such as event sign-ups or newsletter subscriptions.
@@ -100,6 +98,12 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Publishing: Once designed, you can publish the landing page and track its performance through analytics.
 
   ![Image Alt](https://github.com/Jivonne/Learning-HubSpot/blob/6b907393dae88a132170a2d98c1e88ceda4d5330/Landing%20Page.png)
+
+  <h2>Tickets<h2>
+- Creating Tickets: You can create tickets from various locations in HubSpot, such as the service dropdown, contacts, and deals. This helps in organizing customer inquiries efficiently.
+- Tracking and Managing: Tickets allow you to track trends over time from a dashboard, helping you manage customer inquiries and improve service.
+- Details and Associations: When creating a ticket, you can add details like ticket name, status, description, and priority. You can also associate the ticket with specific companies and contacts for better tracking.
+
 
 
   
