@@ -123,7 +123,7 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Efficiency: Using templates saves time by allowing you to quickly send standardized emails templates with HubSpot.
 
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/536b6b790e692458e64ef858fb940e2bb79513b0/Screenshot%202025-04-16%20121508.png)
-![Image Alt]( 
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/f4675a24662e4f3e534be4e920fb6b34ca5c3d50/Screenshot%202025-04-16%20122118.png)
 
 
 
