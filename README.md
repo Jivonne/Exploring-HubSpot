@@ -125,6 +125,12 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/536b6b790e692458e64ef858fb940e2bb79513b0/Screenshot%202025-04-16%20121508.png)
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/f4675a24662e4f3e534be4e920fb6b34ca5c3d50/Screenshot%202025-04-16%20122118.png)
 
+<h2>Report Dashboard<h2>
+  
+- Dashboard Overview: The HubSpot dashboard provides a centralized place to access and analyze various reports related to sales, marketing, and customer service activities.
+- Customization: You can select and modify different dashboards from the dashboard library, or create a custom dashboard from scratch to focus on specific reports relevant to your needs.
+- Accessibility: The dashboard allows you to easily view, filter, and manage reports, providing insights into team activities, sales performance, marketing lead generation, and customer service interactions.
+
 
 
 
