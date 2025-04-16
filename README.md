@@ -107,6 +107,14 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/d56a72b2d2076b33507a0da238e9c981ad162650/Screenshot%202025-04-16%20111719.png)
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/83e3f2e58c33e9dcc04f3b90faf5532fe3cb207e/Screenshot%202025-04-16%20112116.png)
+
+<h2>Snippets<h2>
+  
+- Creating Snippets: You can create reusable text snippets in HubSpot to save time when sending emails. This is done through the "Conversations" dropdown by selecting "Snippets" and then clicking "Create Snippet".
+- Personalization: Snippets can be personalized using tokens that pull information from contact cards, such as the recipient's first name.
+- Usage: Once created, snippets can be easily inserted into emails by typing a hashtag followed by the snippet's shortcut name.
+
+
   
 
 
