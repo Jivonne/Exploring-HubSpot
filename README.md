@@ -114,6 +114,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Personalization: Snippets can be personalized using tokens that pull information from contact cards, such as the recipient's first name.
 - Usage: Once created, snippets can be easily inserted into emails by typing a hashtag followed by the snippet's shortcut name.
 
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/df85bab59e21d2e711678c6a090c094b9dff9259/Screenshot%202025-04-16%20115103.png)
+
 
   
 
