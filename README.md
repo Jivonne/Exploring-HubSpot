@@ -122,7 +122,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Personalization: Templates can be personalized using tokens, such as the contact's first name, ticket name, and priority, to make emails more relevant.
 - Efficiency: Using templates saves time by allowing you to quickly send standardized emails templates with HubSpot.
 
- 
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/536b6b790e692458e64ef858fb940e2bb79513b0/Screenshot%202025-04-16%20121508.png)
+![Image Alt]( 
 
 
 
