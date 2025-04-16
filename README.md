@@ -116,8 +116,13 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/df85bab59e21d2e711678c6a090c094b9dff9259/Screenshot%202025-04-16%20115103.png)
 
+<h2>Templates<h2>
 
-  
+- Creating Templates: You can create reusable email templates in HubSpot, either from scratch or by using pre-existing templates from the library.
+- Personalization: Templates can be personalized using tokens, such as the contact's first name, ticket name, and priority, to make emails more relevant.
+- Efficiency: Using templates saves time by allowing you to quickly send standardized emails templates with HubSpot.
+
+ 
 
 
 
