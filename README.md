@@ -147,6 +147,8 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - Attendee Management: Easily add attendees from your contacts and specify the meeting details, including date, time, and duration.
 - Integration and Tracking: Meetings can be linked to other calendars like Office 365, and you can track all your scheduled meetings through HubSpot's reporting tools.
 
+![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/121635426a50814c2640b357ca1d0749b6b9b617/Screenshot%202025-04-16%20130218.png)
+
 
 
 
