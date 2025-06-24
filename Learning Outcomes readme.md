@@ -118,7 +118,6 @@ To build hands-on skills in using HubSpot for real-world marketing, sales, and s
 - **Tracking and Managing:** Tickets allow you to track trends over time from a dashboard, helping you manage customer inquiries and improve service.
 - **Details and Associations:** When creating a ticket, you can add details like ticket name, status, description, and priority. You can also associate the ticket with specific companies and contacts for better tracking.
 
-![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/d56a72b5d2076b33507a0da238e9c981ad162650/Screenshot%202025-04-16%20111719.png)
 ![Image Alt](https://github.com/Jivonne/Exploring-HubSpot/blob/83e3f2e58c33e9dcc04f3b90faf5532fe3cb207e/Screenshot%202025-04-16%20112116.png)
 
 ---
